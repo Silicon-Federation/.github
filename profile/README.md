@@ -7,6 +7,8 @@
 [![Status](https://img.shields.io/badge/Status-Simulation_Phase-blue)]()
 [![License](https://img.shields.io/badge/License-AGPL_3.0-green)]()
 
+🌐 **English** | [中文](README.zh-CN.md) | [Français](README.fr.md) | [Español](README.es.md) | [Русский](README.ru.md) | [العربية](README.ar.md)
+
 </div>
 
 ---
