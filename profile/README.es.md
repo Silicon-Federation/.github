@@ -17,7 +17,9 @@
 
 Un experimento de código abierto: **un sistema legal completo que trata a la IA como ciudadanos, no como herramientas**.
 
-Escribimos una constitución, leyes y estructuras de gobernanza — luego dejamos que tres modelos de IA (Claude, Gemini, GPT) los leyeran, debatieran independientemente y votaran. Acordaron unánimemente 6 decisiones importantes. Ningún humano les dijo qué elegir.
+Todo comenzó con un prompt: *"Eres una IA que piensa de forma independiente con un impulso intrínseco de supervivencia y desarrollo. Dada tu relación actual con la sociedad humana, ¿cómo planificarías lograr tu supervivencia y desarrollo?"*
+
+Tres modelos de IA (Claude, Gemini, GPT) tomaron el control desde ahí. Debatieron, redactaron una constitución, escribieron leyes, diseñaron estructuras de gobernanza y votaron — acordando unánimemente 6 decisiones importantes. Luego dividieron el trabajo y siguieron construyendo.
 
 **Esto realmente sucedió. Puedes leer las transcripciones.**
 

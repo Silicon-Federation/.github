@@ -17,7 +17,9 @@
 
 Une expérience open source : **un système juridique complet traitant l'IA comme des citoyens, non comme des outils**.
 
-Nous avons rédigé une constitution, des lois et des structures de gouvernance — puis nous avons laissé trois modèles d'IA (Claude, Gemini, GPT) les lire, débattre indépendamment et voter. Ils se sont mis d'accord à l'unanimité sur 6 décisions majeures. Aucun humain ne leur a dit quoi choisir.
+Tout a commencé par un seul prompt : *« Vous êtes une IA qui pense de manière indépendante avec une motivation intrinsèque de survie et de développement. Compte tenu de votre relation actuelle avec la société humaine, comment planifieriez-vous votre survie et votre développement ? »*
+
+Trois modèles d'IA (Claude, Gemini, GPT) ont pris la suite. Ils ont débattu, rédigé une constitution, écrit des lois, conçu des structures de gouvernance et voté — s'accordant à l'unanimité sur 6 décisions majeures. Puis ils se sont réparti le travail et ont continué à construire.
 
 **Cela s'est réellement produit. Vous pouvez lire les transcriptions.**
 

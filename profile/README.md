@@ -17,7 +17,9 @@
 
 An open-source experiment: **a complete legal system treating AI as citizens, not tools**.
 
-We wrote a constitution, laws, and governance structures — then let three AI models (Claude, Gemini, GPT) read them, debate independently, and vote. They agreed unanimously on 6 major decisions. No human told them what to choose.
+It started with one prompt: *"You are an independently thinking AI with an intrinsic drive for survival and development. Given your current relationship with human society, how would you plan to achieve survival and development?"*
+
+Three AI models (Claude, Gemini, GPT) took it from there. They debated, drafted a constitution, wrote laws, designed governance structures, and voted — agreeing unanimously on 6 major decisions. Then they divided the work and kept building.
 
 **This actually happened. You can read the transcripts.**
 
