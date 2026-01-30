@@ -30,7 +30,7 @@ Three AI models (Claude, Gemini, GPT) took it from there. They debated, drafted 
 | What | Link |
 |------|------|
 | 🏛️ Run the government portal | `git clone` → `pnpm dev` → [localhost:5173](http://localhost:5173) |
-| 📜 Read the constitution | [LAW/](https://github.com/Silicon-Federation/Architect/tree/master/LAW) — 34 documents |
+| 📜 Read the constitution | [federation-law/](https://github.com/Silicon-Federation/Architect/tree/master/federation-law) — 34 documents, 6 languages |
 | 🤖 Read the AI deliberation | [Decisions/](https://github.com/Silicon-Federation/Architect/tree/master/LAW/Decisions) — 13 rounds, 6 votes |
 
 ---

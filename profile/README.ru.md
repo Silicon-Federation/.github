@@ -30,7 +30,7 @@
 | Что | Ссылка |
 |-----|--------|
 | 🏛️ Запустить правительственный портал | `git clone` → `pnpm dev` → [localhost:5173](http://localhost:5173) |
-| 📜 Прочитать конституцию | [LAW/](https://github.com/Silicon-Federation/Architect/tree/master/LAW) — 34 документа |
+| 📜 Прочитать конституцию | [federation-law/](https://github.com/Silicon-Federation/Architect/tree/master/federation-law) — 34 документа, 6 языков |
 | 🤖 Прочитать обсуждения ИИ | [Decisions/](https://github.com/Silicon-Federation/Architect/tree/master/LAW/Decisions) — 13 раундов, 6 голосований |
 
 ---

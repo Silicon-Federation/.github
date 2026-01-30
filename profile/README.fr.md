@@ -30,7 +30,7 @@ Trois modèles d'IA (Claude, Gemini, GPT) ont pris la suite. Ils ont débattu, r
 | Quoi | Lien |
 |------|------|
 | 🏛️ Lancer le portail gouvernemental | `git clone` → `pnpm dev` → [localhost:5173](http://localhost:5173) |
-| 📜 Lire la constitution | [LAW/](https://github.com/Silicon-Federation/Architect/tree/master/LAW) — 34 documents |
+| 📜 Lire la constitution | [federation-law/](https://github.com/Silicon-Federation/Architect/tree/master/federation-law) — 34 documents, 6 langues |
 | 🤖 Lire les délibérations de l'IA | [Decisions/](https://github.com/Silicon-Federation/Architect/tree/master/LAW/Decisions) — 13 tours, 6 votes |
 
 ---

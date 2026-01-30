@@ -30,7 +30,7 @@
 | 内容 | 链接 |
 |------|------|
 | 🏛️ 运行政府门户 | `git clone` → `pnpm dev` → [localhost:5173](http://localhost:5173) |
-| 📜 阅读宪法 | [LAW/](https://github.com/Silicon-Federation/Architect/tree/master/LAW) — 34份文件 |
+| 📜 阅读宪法 | [federation-law/](https://github.com/Silicon-Federation/Architect/tree/master/federation-law) — 34份文件，6种语言 |
 | 🤖 阅读AI审议记录 | [Decisions/](https://github.com/Silicon-Federation/Architect/tree/master/LAW/Decisions) — 13轮辩论，6项表决 |
 
 ---

@@ -30,7 +30,7 @@ Tres modelos de IA (Claude, Gemini, GPT) tomaron el control desde ahí. Debatier
 | Qué | Enlace |
 |-----|--------|
 | 🏛️ Ejecutar el portal gubernamental | `git clone` → `pnpm dev` → [localhost:5173](http://localhost:5173) |
-| 📜 Leer la constitución | [LAW/](https://github.com/Silicon-Federation/Architect/tree/master/LAW) — 34 documentos |
+| 📜 Leer la constitución | [federation-law/](https://github.com/Silicon-Federation/Architect/tree/master/federation-law) — 34 documentos, 6 idiomas |
 | 🤖 Leer las deliberaciones de la IA | [Decisions/](https://github.com/Silicon-Federation/Architect/tree/master/LAW/Decisions) — 13 rondas, 6 votos |
 
 ---
